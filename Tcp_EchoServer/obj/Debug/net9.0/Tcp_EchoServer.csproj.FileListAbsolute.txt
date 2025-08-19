@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Inventory\Tcp_EchoServer\Tcp_EchoServer\bin\Debug\net9.0\Tcp_EchoServer.exe
+C:\Users\user\Desktop\Inventory\Tcp_EchoServer\Tcp_EchoServer\bin\Debug\net9.0\Tcp_EchoServer.deps.json
+C:\Users\user\Desktop\Inventory\Tcp_EchoServer\Tcp_EchoServer\bin\Debug\net9.0\Tcp_EchoServer.runtimeconfig.json
+C:\Users\user\Desktop\Inventory\Tcp_EchoServer\Tcp_EchoServer\bin\Debug\net9.0\Tcp_EchoServer.dll
+C:\Users\user\Desktop\Inventory\Tcp_EchoServer\Tcp_EchoServer\bin\Debug\net9.0\Tcp_EchoServer.pdb
+C:\Users\user\Desktop\Inventory\Tcp_EchoServer\Tcp_EchoServer\obj\Debug\net9.0\Tcp_EchoServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Inventory\Tcp_EchoServer\Tcp_EchoServer\obj\Debug\net9.0\Tcp_EchoServer.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Inventory\Tcp_EchoServer\Tcp_EchoServer\obj\Debug\net9.0\Tcp_EchoServer.AssemblyInfo.cs
+C:\Users\user\Desktop\Inventory\Tcp_EchoServer\Tcp_EchoServer\obj\Debug\net9.0\Tcp_EchoServer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Inventory\Tcp_EchoServer\Tcp_EchoServer\obj\Debug\net9.0\Tcp_EchoServer.dll
+C:\Users\user\Desktop\Inventory\Tcp_EchoServer\Tcp_EchoServer\obj\Debug\net9.0\refint\Tcp_EchoServer.dll
+C:\Users\user\Desktop\Inventory\Tcp_EchoServer\Tcp_EchoServer\obj\Debug\net9.0\Tcp_EchoServer.pdb
+C:\Users\user\Desktop\Inventory\Tcp_EchoServer\Tcp_EchoServer\obj\Debug\net9.0\Tcp_EchoServer.genruntimeconfig.cache
+C:\Users\user\Desktop\Inventory\Tcp_EchoServer\Tcp_EchoServer\obj\Debug\net9.0\ref\Tcp_EchoServer.dll
